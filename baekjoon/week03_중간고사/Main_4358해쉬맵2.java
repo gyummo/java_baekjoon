@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main_4358생태학 {
+public class Main_4358해쉬맵2 {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         HashMap<String, Double> map = new HashMap<String, Double>(); //나무 넣을 맵

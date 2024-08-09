@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main_9375패션왕 {
+public class Main_9375해쉬맵3 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder result = new StringBuilder();

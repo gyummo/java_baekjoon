@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main_2164카드2 {
+public class Main_2164큐 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         Queue<Integer> q = new LinkedList<>();

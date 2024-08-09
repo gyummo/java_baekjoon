@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main_2504괄호의값 {
+public class Main_2504스택 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String input = br.readLine().trim(); // 괄호열 입력 받기
